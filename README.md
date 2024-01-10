@@ -1,2 +1,4 @@
-# Bookshop-Dashboard
-This Dashboard shows the top authors and publishers. Its also looks at the trend of book publication, total sum of authors and publishers.
+# BOOKSHOP DASHBOARD
+---
+
+![Screenshot (17)](https://github.com/Timothygbenga/Bookshop-Dashboard/assets/154624761/f7afc34a-f6e5-4fe3-96fc-ec83d3a4ea1c)
